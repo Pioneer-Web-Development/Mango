@@ -1,0 +1,56 @@
+.column { width: 320px; float: left; padding-bottom: 100px; }
+.ui-sortable-placeholder { border: 1px dotted black; visibility: visible !important; height: 150px !important; }
+.ui-sortable-placeholder * { visibility: hidden; }
+
+.dragBox {   
+   width: 310px;
+   margin-right:5px;
+   margin-left:5px;
+   margin-bottom: 10px;
+}
+
+.dashboardBox{
+    width:300px;
+    padding:5px 5px 5px 5px;
+    font-family:Trebuchet MS;
+    font-size:12px;
+    margin-bottom:10px;
+    
+}
+.dashboardHeader{
+    width:290px;
+    text-align:center;
+    background-color: #AC1D23;
+    color: #FFDB4F;
+    font-weight:bold;
+    font-size:16px;
+    margin:10px;
+    padding-top:1px;
+    padding-bottom:4px;
+    height:20px;
+    cursor:move;
+}
+.dashboardHeader .ui-icon { float: right; }
+
+.dashboardHeadline{
+    margin-top:4px;
+    font-weight:bold;
+    color:#AC1D23;
+}
+.dashboardHeadlineUrgent{
+    font-size:16px;
+    margin-top:4px;
+    font-weight:bold;
+    color:#FF0000;
+}
+.dashboardHeadline a {
+    background-image: url(/artwork/icons/external.gif);
+    background-repeat: no-repeat;
+    background-position: right center;
+    padding-right: 16px;
+    background-color:inherit !important;   
+}
+.dashboardItem{
+    font-size:12px;
+    line-height:14px;
+}

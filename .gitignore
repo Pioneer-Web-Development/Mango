@@ -4,3 +4,10 @@
 */cache/*
 */cache/!index.html
 */cache/!.htaccess
+/blog/*
+/wiki/*
+/phpMyBackupPro/*
+/pioneer/*
+/tests/*
+/api/*
+/dbbackups/*

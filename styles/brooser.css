@@ -1,0 +1,175 @@
+#brooser * {
+	margin:0;
+	padding:0;
+}
+
+#brooser img { border:0; }
+
+#brooser-overlay {
+	background:#000;
+	opacity:.5;
+	filter:Alpha(opacity=50);
+}
+
+#brooser {
+	border:1px solid #000;
+	width:612px;
+	height:430px;
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	background:#F3F3F3;
+	
+	position: fixed;
+	left:50%;
+	top:50%;
+	margin:-212px 0 0 -307px;
+}
+
+	#brooser-browser {
+		position:relative;
+		left:10px;
+		top:12px;
+		height:370px;
+		width:298px;
+		border:1px solid #000;
+		background:#FFF;
+		list-style:none;
+		line-height:1.8em;
+		overflow:auto;
+		overflow-x:hidden;
+	}
+	
+			#brooser-browser.loading {
+				background:#FFF url(images/brooser-loading.gif) no-repeat center;
+			}
+	
+			#brooser-browser a { 
+				position:relative;
+				height:1.9em;
+				padding-left:5px;
+				color:#000;
+				text-decoration:none;
+				display:block;
+				white-space:nowrap;
+			}
+			#brooser-browser a.selected { background:#3370CF; color:#FFF; outline:none; }
+			#brooser-browser a.denied { background:#FDD; opacity:.5; filter:Alpha(opacity=50); }
+				#brooser-browser img { vertical-align:middle; padding:0 3px 2px 0; }
+
+	#brooser-open {
+        position:absolute;
+        right:12px;
+        bottom:18px;
+        width:80px;
+        padding:0 10px;
+    }
+    #brooser-name {
+		position:absolute;
+		right:102px;
+		bottom:12px;
+		width:90px;
+		padding:0 10px;
+	}
+	
+	#brooser-close {
+		position:absolute;
+		right:-10px;
+		top:-10px;
+		background: url(images/brooser-close.png) no-repeat left top;
+		text-indent:-1000em;
+		height:26px;
+		width:26px;
+		overflow:hidden;
+	}
+
+	#brooser-infos {
+		position:absolute;
+		left:315px;
+		top:12px;
+		width:290px;
+		line-height:1.6em;
+		overflow:auto;
+		height:372px;
+	}
+	
+		#brooser-head {
+			height:39px;
+			overflow:hidden;
+		}
+	
+			#brooser-icon {
+				float:left;
+				margin:0 10px 12px 10px;
+			}
+		
+			#brooser h1 {
+				font-size:13px;
+				width:245px;
+				overflow:hidden;
+				white-space:nowrap;
+			}
+			
+			#brooser-date {
+				color:#818080;
+			}
+		
+		#brooser h2 {
+			border-top:1px solid #B1B1B1;
+			font-size:11px;
+			font-weight:bold;
+			padding:2px 0 5px 5px;
+			clear:both;
+		}
+		
+		#brooser dl {
+			margin-bottom:5px;
+			width:100%;
+			clear:both;
+			overflow:auto;
+		}
+		
+			#brooser dt, #brooser dd { float:left; }
+			#brooser dt {
+				clear:both;
+				width:90px;
+				margin-left:5px;
+			}
+	
+		#brooser-name {
+			margin:5px 0 5px 15px;
+		}
+		
+		#brooser dd {
+			width:180px;
+			white-space:nowrap;
+			overflow:auto;
+		}
+		
+		#brooser-preview {
+			margin-top:5px;
+			min-height:66px;
+		}
+	
+			#brooser-preview.loading {
+				background: url(images/brooser-loading.gif) no-repeat center;
+			}
+			
+/*
+ * CSS Hacks
+ * These ugly CSS Hacks are here to avoid multiple CSS files inclusion
+ * (contitionnal comments are good, but 3 files for a simple js script...)
+ */
+
+/* IE7 and lower */ 
+*:first-child+html #brooser-infos,
+*:first-child+html #brooser-infos dd {
+	overflow-x:hidden;
+} 
+ 
+/* IE6 and lower */
+* html #brooser-preview {
+	height:66px;
+}
+
+* html #brooser-browser img {
+	padding:2px 3px 0 0;
+}

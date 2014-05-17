@@ -1,0 +1,918 @@
+
+.publications1,
+.fc-agenda .publications1 .fc-event-time,
+.fc-agenda .publications1 .fc-event-bg,
+.fc-agenda .publications1 .fc-event-title,
+.publications1 a {
+      background-color: #2770D9 !important;
+      border: none;
+      color: white;
+      }
+.publications1 a
+{
+    border: thin solid white !important;
+}     
+.publications1 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications2,
+.fc-agenda .publications2 .fc-event-time,
+.fc-agenda .publications2 .fc-event-bg,
+.fc-agenda .publications2 .fc-event-title,
+.publications2 a {
+      background-color: #87C333 !important;
+      border: none;
+      color: black;
+      }
+.publications2 a
+{
+    border: thin solid white !important;
+}     
+.publications2 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications3,
+.fc-agenda .publications3 .fc-event-time,
+.fc-agenda .publications3 .fc-event-bg,
+.fc-agenda .publications3 .fc-event-title,
+.publications3 a {
+      background-color: #E23305 !important;
+      border: none;
+      color: white;
+      }
+.publications3 a
+{
+    border: thin solid white !important;
+}     
+.publications3 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications4,
+.fc-agenda .publications4 .fc-event-time,
+.fc-agenda .publications4 .fc-event-bg,
+.fc-agenda .publications4 .fc-event-title,
+.publications4 a {
+      background-color: #6AF7DF !important;
+      border: none;
+      color: black;
+      }
+.publications4 a
+{
+    border: thin solid white !important;
+}     
+.publications4 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications5,
+.fc-agenda .publications5 .fc-event-time,
+.fc-agenda .publications5 .fc-event-bg,
+.fc-agenda .publications5 .fc-event-title,
+.publications5 a {
+      background-color: #FB9B0A !important;
+      border: none;
+      color: black;
+      }
+.publications5 a
+{
+    border: thin solid white !important;
+}     
+.publications5 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications6,
+.fc-agenda .publications6 .fc-event-time,
+.fc-agenda .publications6 .fc-event-bg,
+.fc-agenda .publications6 .fc-event-title,
+.publications6 a {
+      background-color: #980505 !important;
+      border: none;
+      color: white;
+      }
+.publications6 a
+{
+    border: thin solid white !important;
+}     
+.publications6 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications7,
+.fc-agenda .publications7 .fc-event-time,
+.fc-agenda .publications7 .fc-event-bg,
+.fc-agenda .publications7 .fc-event-title,
+.publications7 a {
+      background-color: #FED5EA !important;
+      border: none;
+      color: black;
+      }
+.publications7 a
+{
+    border: thin solid white !important;
+}     
+.publications7 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications8,
+.fc-agenda .publications8 .fc-event-time,
+.fc-agenda .publications8 .fc-event-bg,
+.fc-agenda .publications8 .fc-event-title,
+.publications8 a {
+      background-color: #FFF826 !important;
+      border: none;
+      color: black;
+      }
+.publications8 a
+{
+    border: thin solid white !important;
+}     
+.publications8 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications9,
+.fc-agenda .publications9 .fc-event-time,
+.fc-agenda .publications9 .fc-event-bg,
+.fc-agenda .publications9 .fc-event-title,
+.publications9 a {
+      background-color: #F9545E !important;
+      border: none;
+      color: black;
+      }
+.publications9 a
+{
+    border: thin solid white !important;
+}     
+.publications9 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications10,
+.fc-agenda .publications10 .fc-event-time,
+.fc-agenda .publications10 .fc-event-bg,
+.fc-agenda .publications10 .fc-event-title,
+.publications10 a {
+      background-color: #FCCE26 !important;
+      border: none;
+      color: black;
+      }
+.publications10 a
+{
+    border: thin solid white !important;
+}     
+.publications10 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications11,
+.fc-agenda .publications11 .fc-event-time,
+.fc-agenda .publications11 .fc-event-bg,
+.fc-agenda .publications11 .fc-event-title,
+.publications11 a {
+      background-color: #8816F1 !important;
+      border: none;
+      color: white;
+      }
+.publications11 a
+{
+    border: thin solid white !important;
+}     
+.publications11 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications12,
+.fc-agenda .publications12 .fc-event-time,
+.fc-agenda .publications12 .fc-event-bg,
+.fc-agenda .publications12 .fc-event-title,
+.publications12 a {
+      background-color: #FFFFCC !important;
+      border: none;
+      color: black;
+      }
+.publications12 a
+{
+    border: thin solid white !important;
+}     
+.publications12 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications13,
+.fc-agenda .publications13 .fc-event-time,
+.fc-agenda .publications13 .fc-event-bg,
+.fc-agenda .publications13 .fc-event-title,
+.publications13 a {
+      background-color: #ff0066 !important;
+      border: none;
+      color: white;
+      }
+.publications13 a
+{
+    border: thin solid white !important;
+}     
+.publications13 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications14,
+.fc-agenda .publications14 .fc-event-time,
+.fc-agenda .publications14 .fc-event-bg,
+.fc-agenda .publications14 .fc-event-title,
+.publications14 a {
+      background-color: #2770D9 !important;
+      border: none;
+      color: white;
+      }
+.publications14 a
+{
+    border: thin solid white !important;
+}     
+.publications14 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications15,
+.fc-agenda .publications15 .fc-event-time,
+.fc-agenda .publications15 .fc-event-bg,
+.fc-agenda .publications15 .fc-event-title,
+.publications15 a {
+      background-color: #F55C10 !important;
+      border: none;
+      color: white;
+      }
+.publications15 a
+{
+    border: thin solid white !important;
+}     
+.publications15 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications16,
+.fc-agenda .publications16 .fc-event-time,
+.fc-agenda .publications16 .fc-event-bg,
+.fc-agenda .publications16 .fc-event-title,
+.publications16 a {
+      background-color: #943BDB !important;
+      border: none;
+      color: white;
+      }
+.publications16 a
+{
+    border: thin solid white !important;
+}     
+.publications16 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications17,
+.fc-agenda .publications17 .fc-event-time,
+.fc-agenda .publications17 .fc-event-bg,
+.fc-agenda .publications17 .fc-event-title,
+.publications17 a {
+      background-color: #000000 !important;
+      border: none;
+      color: white;
+      }
+.publications17 a
+{
+    border: thin solid white !important;
+}     
+.publications17 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications18,
+.fc-agenda .publications18 .fc-event-time,
+.fc-agenda .publications18 .fc-event-bg,
+.fc-agenda .publications18 .fc-event-title,
+.publications18 a {
+      background-color: #BF17E3 !important;
+      border: none;
+      color: white;
+      }
+.publications18 a
+{
+    border: thin solid white !important;
+}     
+.publications18 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications19,
+.fc-agenda .publications19 .fc-event-time,
+.fc-agenda .publications19 .fc-event-bg,
+.fc-agenda .publications19 .fc-event-title,
+.publications19 a {
+      background-color: #2720D3 !important;
+      border: none;
+      color: white;
+      }
+.publications19 a
+{
+    border: thin solid white !important;
+}     
+.publications19 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications20,
+.fc-agenda .publications20 .fc-event-time,
+.fc-agenda .publications20 .fc-event-bg,
+.fc-agenda .publications20 .fc-event-title,
+.publications20 a {
+      background-color: #293F29 !important;
+      border: none;
+      color: white;
+      }
+.publications20 a
+{
+    border: thin solid white !important;
+}     
+.publications20 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications21,
+.fc-agenda .publications21 .fc-event-time,
+.fc-agenda .publications21 .fc-event-bg,
+.fc-agenda .publications21 .fc-event-title,
+.publications21 a {
+      background-color: #F50696 !important;
+      border: none;
+      color: black;
+      }
+.publications21 a
+{
+    border: thin solid white !important;
+}     
+.publications21 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications22,
+.fc-agenda .publications22 .fc-event-time,
+.fc-agenda .publications22 .fc-event-bg,
+.fc-agenda .publications22 .fc-event-title,
+.publications22 a {
+      background-color: #DE520C !important;
+      border: none;
+      color: white;
+      }
+.publications22 a
+{
+    border: thin solid white !important;
+}     
+.publications22 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications23,
+.fc-agenda .publications23 .fc-event-time,
+.fc-agenda .publications23 .fc-event-bg,
+.fc-agenda .publications23 .fc-event-title,
+.publications23 a {
+      background-color: #FFFFCC !important;
+      border: none;
+      color: black;
+      }
+.publications23 a
+{
+    border: thin solid white !important;
+}     
+.publications23 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications24,
+.fc-agenda .publications24 .fc-event-time,
+.fc-agenda .publications24 .fc-event-bg,
+.fc-agenda .publications24 .fc-event-title,
+.publications24 a {
+      background-color: #F9C302 !important;
+      border: none;
+      color: black;
+      }
+.publications24 a
+{
+    border: thin solid white !important;
+}     
+.publications24 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications25,
+.fc-agenda .publications25 .fc-event-time,
+.fc-agenda .publications25 .fc-event-bg,
+.fc-agenda .publications25 .fc-event-title,
+.publications25 a {
+      background-color: #F13B3B !important;
+      border: none;
+      color: white;
+      }
+.publications25 a
+{
+    border: thin solid white !important;
+}     
+.publications25 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications26,
+.fc-agenda .publications26 .fc-event-time,
+.fc-agenda .publications26 .fc-event-bg,
+.fc-agenda .publications26 .fc-event-title,
+.publications26 a {
+      background-color: #A39A22 !important;
+      border: none;
+      color: white;
+      }
+.publications26 a
+{
+    border: thin solid white !important;
+}     
+.publications26 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications27,
+.fc-agenda .publications27 .fc-event-time,
+.fc-agenda .publications27 .fc-event-bg,
+.fc-agenda .publications27 .fc-event-title,
+.publications27 a {
+      background-color: #A1087C !important;
+      border: none;
+      color: white;
+      }
+.publications27 a
+{
+    border: thin solid white !important;
+}     
+.publications27 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications28,
+.fc-agenda .publications28 .fc-event-time,
+.fc-agenda .publications28 .fc-event-bg,
+.fc-agenda .publications28 .fc-event-title,
+.publications28 a {
+      background-color: #FFFFCC !important;
+      border: none;
+      color: black;
+      }
+.publications28 a
+{
+    border: thin solid white !important;
+}     
+.publications28 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications29,
+.fc-agenda .publications29 .fc-event-time,
+.fc-agenda .publications29 .fc-event-bg,
+.fc-agenda .publications29 .fc-event-title,
+.publications29 a {
+      background-color: #EA14D0 !important;
+      border: none;
+      color: black;
+      }
+.publications29 a
+{
+    border: thin solid white !important;
+}     
+.publications29 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications30,
+.fc-agenda .publications30 .fc-event-time,
+.fc-agenda .publications30 .fc-event-bg,
+.fc-agenda .publications30 .fc-event-title,
+.publications30 a {
+      background-color: #FFFFCC !important;
+      border: none;
+      color: black;
+      }
+.publications30 a
+{
+    border: thin solid white !important;
+}     
+.publications30 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications31,
+.fc-agenda .publications31 .fc-event-time,
+.fc-agenda .publications31 .fc-event-bg,
+.fc-agenda .publications31 .fc-event-title,
+.publications31 a {
+      background-color: #586AC1 !important;
+      border: none;
+      color: white;
+      }
+.publications31 a
+{
+    border: thin solid white !important;
+}     
+.publications31 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications32,
+.fc-agenda .publications32 .fc-event-time,
+.fc-agenda .publications32 .fc-event-bg,
+.fc-agenda .publications32 .fc-event-title,
+.publications32 a {
+      background-color: #FFFFCC !important;
+      border: none;
+      color: black;
+      }
+.publications32 a
+{
+    border: thin solid white !important;
+}     
+.publications32 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications33,
+.fc-agenda .publications33 .fc-event-time,
+.fc-agenda .publications33 .fc-event-bg,
+.fc-agenda .publications33 .fc-event-title,
+.publications33 a {
+      background-color: #DBFC3D !important;
+      border: none;
+      color: black;
+      }
+.publications33 a
+{
+    border: thin solid white !important;
+}     
+.publications33 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications34,
+.fc-agenda .publications34 .fc-event-time,
+.fc-agenda .publications34 .fc-event-bg,
+.fc-agenda .publications34 .fc-event-title,
+.publications34 a {
+      background-color: #565252 !important;
+      border: none;
+      color: white;
+      }
+.publications34 a
+{
+    border: thin solid white !important;
+}     
+.publications34 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications35,
+.fc-agenda .publications35 .fc-event-time,
+.fc-agenda .publications35 .fc-event-bg,
+.fc-agenda .publications35 .fc-event-title,
+.publications35 a {
+      background-color: #FFFFCC !important;
+      border: none;
+      color: black;
+      }
+.publications35 a
+{
+    border: thin solid white !important;
+}     
+.publications35 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications36,
+.fc-agenda .publications36 .fc-event-time,
+.fc-agenda .publications36 .fc-event-bg,
+.fc-agenda .publications36 .fc-event-title,
+.publications36 a {
+      background-color: #FFFFCC !important;
+      border: none;
+      color: black;
+      }
+.publications36 a
+{
+    border: thin solid white !important;
+}     
+.publications36 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications37,
+.fc-agenda .publications37 .fc-event-time,
+.fc-agenda .publications37 .fc-event-bg,
+.fc-agenda .publications37 .fc-event-title,
+.publications37 a {
+      background-color: #FFFFCC !important;
+      border: none;
+      color: black;
+      }
+.publications37 a
+{
+    border: thin solid white !important;
+}     
+.publications37 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications38,
+.fc-agenda .publications38 .fc-event-time,
+.fc-agenda .publications38 .fc-event-bg,
+.fc-agenda .publications38 .fc-event-title,
+.publications38 a {
+      background-color: #FFFFCC !important;
+      border: none;
+      color: black;
+      }
+.publications38 a
+{
+    border: thin solid white !important;
+}     
+.publications38 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications39,
+.fc-agenda .publications39 .fc-event-time,
+.fc-agenda .publications39 .fc-event-bg,
+.fc-agenda .publications39 .fc-event-title,
+.publications39 a {
+      background-color: #FFFFCC !important;
+      border: none;
+      color: black;
+      }
+.publications39 a
+{
+    border: thin solid white !important;
+}     
+.publications39 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications40,
+.fc-agenda .publications40 .fc-event-time,
+.fc-agenda .publications40 .fc-event-bg,
+.fc-agenda .publications40 .fc-event-title,
+.publications40 a {
+      background-color: #FFFFCC !important;
+      border: none;
+      color: black;
+      }
+.publications40 a
+{
+    border: thin solid white !important;
+}     
+.publications40 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications41,
+.fc-agenda .publications41 .fc-event-time,
+.fc-agenda .publications41 .fc-event-bg,
+.fc-agenda .publications41 .fc-event-title,
+.publications41 a {
+      background-color: #FFFFCC !important;
+      border: none;
+      color: black;
+      }
+.publications41 a
+{
+    border: thin solid white !important;
+}     
+.publications41 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications42,
+.fc-agenda .publications42 .fc-event-time,
+.fc-agenda .publications42 .fc-event-bg,
+.fc-agenda .publications42 .fc-event-title,
+.publications42 a {
+      background-color: #FFFFCC !important;
+      border: none;
+      color: black;
+      }
+.publications42 a
+{
+    border: thin solid white !important;
+}     
+.publications42 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications43,
+.fc-agenda .publications43 .fc-event-time,
+.fc-agenda .publications43 .fc-event-bg,
+.fc-agenda .publications43 .fc-event-title,
+.publications43 a {
+      background-color: #FFFFCC !important;
+      border: none;
+      color: black;
+      }
+.publications43 a
+{
+    border: thin solid white !important;
+}     
+.publications43 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications44,
+.fc-agenda .publications44 .fc-event-time,
+.fc-agenda .publications44 .fc-event-bg,
+.fc-agenda .publications44 .fc-event-title,
+.publications44 a {
+      background-color: #FFFFCC !important;
+      border: none;
+      color: black;
+      }
+.publications44 a
+{
+    border: thin solid white !important;
+}     
+.publications44 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications45,
+.fc-agenda .publications45 .fc-event-time,
+.fc-agenda .publications45 .fc-event-bg,
+.fc-agenda .publications45 .fc-event-title,
+.publications45 a {
+      background-color: #FFFFCC !important;
+      border: none;
+      color: black;
+      }
+.publications45 a
+{
+    border: thin solid white !important;
+}     
+.publications45 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications46,
+.fc-agenda .publications46 .fc-event-time,
+.fc-agenda .publications46 .fc-event-bg,
+.fc-agenda .publications46 .fc-event-title,
+.publications46 a {
+      background-color: #FFFFCC !important;
+      border: none;
+      color: black;
+      }
+.publications46 a
+{
+    border: thin solid white !important;
+}     
+.publications46 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications47,
+.fc-agenda .publications47 .fc-event-time,
+.fc-agenda .publications47 .fc-event-bg,
+.fc-agenda .publications47 .fc-event-title,
+.publications47 a {
+      background-color: #FFFFCC !important;
+      border: none;
+      color: black;
+      }
+.publications47 a
+{
+    border: thin solid white !important;
+}     
+.publications47 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications48,
+.fc-agenda .publications48 .fc-event-time,
+.fc-agenda .publications48 .fc-event-bg,
+.fc-agenda .publications48 .fc-event-title,
+.publications48 a {
+      background-color: #FFFFCC !important;
+      border: none;
+      color: black;
+      }
+.publications48 a
+{
+    border: thin solid white !important;
+}     
+.publications48 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications49,
+.fc-agenda .publications49 .fc-event-time,
+.fc-agenda .publications49 .fc-event-bg,
+.fc-agenda .publications49 .fc-event-title,
+.publications49 a {
+      background-color: #000000 !important;
+      border: none;
+      color: white;
+      }
+.publications49 a
+{
+    border: thin solid white !important;
+}     
+.publications49 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications50,
+.fc-agenda .publications50 .fc-event-time,
+.fc-agenda .publications50 .fc-event-bg,
+.fc-agenda .publications50 .fc-event-title,
+.publications50 a {
+      background-color: #F3ADF3 !important;
+      border: none;
+      color: black;
+      }
+.publications50 a
+{
+    border: thin solid white !important;
+}     
+.publications50 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+
+
+.publications51,
+.fc-agenda .publications51 .fc-event-time,
+.fc-agenda .publications51 .fc-event-bg,
+.fc-agenda .publications51 .fc-event-title,
+.publications51 a {
+      background-color: #960096 !important;
+      border: none;
+      color: white;
+      }
+.publications51 a
+{
+    border: thin solid white !important;
+}     
+.publications51 a:hover {
+      border: 4px solid #FFFF00 !important;
+      }
+

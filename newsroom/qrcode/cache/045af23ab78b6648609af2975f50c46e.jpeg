@@ -1,0 +1,559 @@
+
+Warning: fopen(/newsroom/qrcode/data/qrv1_0.dat): failed to open stream: No such file or directory in C:\websites\newsroom\qrcode\php\qr_img.php on line 307
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 308
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 309
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 310
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 311
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 312
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 313
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 314
+
+Warning: fclose() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 315
+
+Warning: fopen(/newsroom/qrcode/data/rsc0.dat): failed to open stream: No such file or directory in C:\websites\newsroom\qrcode\php\qr_img.php on line 332
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fread() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 335
+
+Warning: fclose() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 338
+
+Warning: imagecreatefrompng(/newsroom/qrcode/image/qrv1.png): failed to open stream: No such file or directory in C:\websites\newsroom\qrcode\php\qr_img.php on line 615
+
+Warning: imagecolorallocate() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 617
+
+Warning: imagecolorallocate() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 618
+
+Warning: imagesetpixel() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 628
+
+Warning: imagesetpixel() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 628
+
+Warning: imagesetpixel() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 628
+
+Warning: imagesetpixel() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 628
+
+Warning: imagesetpixel() expects parameter 1 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 628
+
+Warning: imagecopyresized() expects parameter 2 to be resource, boolean given in C:\websites\newsroom\qrcode\php\qr_img.php on line 641
+ÿØÿà JFIF      ÿþ >CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), default quality
+ÿÛ C 		
+ $.' ",#(7),01444'9=82<.342ÿÛ C			2!!22222222222222222222222222222222222222222222222222ÿÀ  è è" ÿÄ           	
+ÿÄ µ   } !1AQa"q2‘¡#B±ÁRÑð$3br‚	
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚáâãäåæçèéêñòóôõö÷øùúÿÄ        	
+ÿÄ µ  w !1AQaq"2B‘¡±Á	#3RðbrÑ
+$4á%ñ&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz‚ƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚâãäåæçèéêòóôõö÷øùúÿÚ   ? ùþŠ( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( Š( ÿÙ

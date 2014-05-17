@@ -1,0 +1,59 @@
+.packages { 
+    list-style-type: none; 
+    margin: 2px; 
+    padding: 0; 
+    background: #fff; 
+    padding: 2px; 
+    width: 146px;
+    border:thin solid black;
+}
+.packages li { 
+    margin: 2px; 
+    font-size: 14px; 
+    width: 138px;
+    color: green;
+    padding-bottom:2px;
+    border-bottom:thin solid green; 
+}
+.inserts { 
+    list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
+    padding: 2px; 
+    width: 143px;
+    border:0;
+    background-color:transparent;
+}
+.inserts li {
+    margin: 5px; 
+    padding: 2px; 
+    font-size: 14px; 
+    width: 160px;
+    cursor:pointer;
+    background: none;
+    color:black;
+    padding-left: 25px;
+    border-bottom:0;
+}
+.inserts li:hover {
+    background-image: url("/artwork/icons/arrow_right_green_20.png");
+    background-repeat: no-repeat;
+    background-position: 0.2em;  
+}
+
+.jackets {
+    background:white;
+    border:thin solid #666;
+    font-weight:bold;
+    width:150px;
+    height:20px;
+    padding:2px;
+    background-color:#fdfdfd;
+    margin-bottom:4px;
+}
+
+.jackets li {
+    margin:0;
+    padding:0;
+    color:#666;
+}

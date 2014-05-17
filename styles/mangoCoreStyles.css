@@ -1,0 +1,580 @@
+/* DEFAULT COLORS:
+    FFDB4F  -- this is a dark yellow
+    AC1D23  -- this is a reddish color
+    FEFE78  -- pale yellow
+*/
+/*
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+}
+legend {
+    border: thin;
+    
+}
+body {
+    color: black;
+    background: white;
+}
+
+:focus {
+    outline: 0;
+}
+
+ol, ul {
+    list-style: none;
+}
+table {
+    border-collapse: separate;
+    border-spacing: 0;
+}
+caption, th, td {
+    text-align: left;
+    font-weight: normal;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: "";
+}
+blockquote, q {
+    quotes: "" "";
+}
+*/
+
+
+body{
+    font-family:Trebuchet MS, Arial, sans-serif;
+    font-size:.8em;
+}
+input {
+    font-family:Trebuchet MS, Arial, sans-serif;
+}
+select {
+    font-family:Trebuchet MS, Arial, sans-serif;
+}
+
+legend{
+    font-weight:bold;
+    font-size:14px;
+    margin-top:5px;
+}
+
+#loading {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    }
+
+#calendar {
+    width: 98%;
+    margin: 10px;
+}
+ 
+.newsHead{
+    font-size:1.5em;
+    font-weight:bold;
+}
+.newsArticle{
+    font-size:1em;
+    line-height:1.2em;
+}
+.eventDate{
+    width:100%;
+    border-top:1px solid #AC1D23;
+    font-size:1em;
+    color:#AC1D23;
+}
+.eventTitle{
+    font-size: 1.2em;
+    font-weight:bold;
+    color:black;
+}
+.eventDescription{
+    font-size:1em;
+    line-height:1.2em;
+    padding-bottom:4px;
+    margin-bottom:4px;
+}
+.label {
+    float: left;
+    width: 140px;
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: #000000;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: right;
+    padding-right: 10px;
+}
+.input {
+    float: left;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color: #CCCCCC;
+    padding-left: 4px;
+    text-align: left;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000000;
+}
+#wrapper {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom:2px;
+    padding-right:10px;
+    padding-top:5px;
+}
+
+
+a:link {
+    color: #AC1D23;
+}
+
+a:hover {
+    color: #BCA84F; 
+}
+
+a:visited {
+    color: black; 
+}
+.clear {
+    clear: both;
+    height: 1px;
+}
+
+
+.presslayoutBRD{
+    width:50px;
+}
+                             
+
+
+.clear {
+    clear: both;
+    height: 0;
+}
+
+
+.pressInfoLabel{
+    width:110px;
+    font-weight:bold;
+}
+
+.pressInfoData{
+    width:120px;
+    background-color:white;
+}
+
+.pressStopButton{
+    font-weight:bold;
+    font-size:24px;
+    padding:6px;
+    background-color:red;
+    border:2px solid black;
+}
+
+.checklist_checked {
+    width: 230px;
+    height: 32px;
+    padding-left:40px;
+    background-image: url(../artwork/checkbox_checked.png);
+    background-position: left center;
+    background-repeat: no-repeat;
+    padding-top:4px;
+    cursor:pointer;
+}
+.checklist_unchecked {
+    width: 230px;
+    height: 32px;
+    padding-left:40px;
+    background-image: url(../artwork/checkbox_unchecked.png);
+    background-position: left center;
+    background-repeat: no-repeat;
+    padding-top:4px;
+    cursor:pointer;
+}
+
+.error{
+    text-decoration: blink;
+    font-weight:bold;
+    color:red;
+}
+ 
+.pressDiagram a:visited{
+    background-image:url(../artwork/icons/add_48.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-color:inherit !important;
+}
+
+/************************************************************************************
+*
+* THIS SECTION IS FOR THE INVENTORY PURCHASE ORDER INPUT SCRIPTS
+*
+***********************************************************************************/
+.inventoryLine{
+    float:left;
+    border-bottom:1px solid #AC1D23;
+    margin-left:10px;
+    margin-bottom:2px;
+    width:760px;
+    height:48px;
+    padding-top:4px;
+    font-family:Trebuchet MS, Arial, sans-serif;
+    font-size:12px;    
+}
+.partName{
+    float:left;
+    width:585px;
+    font-weight:bold;
+    color:#AC1D23;
+    font-size:14px;
+}
+.partName a{
+    text-decoration:none;
+    background-image: url(../artwork/icons/binocular_24.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    padding-right: 32px;
+    background-color:inherit !important;   
+}
+.partGL{
+    padding-top:4px;
+    float:left;
+    width:300px;
+    color:black;
+}.partNumber{
+    padding-top:4px;
+    float:left;
+    width:150px;
+    color:black;
+}
+.partPrice{
+    float:left;
+    width:150px;
+    color:black;
+}
+.partQty{
+    float:left;
+    width:120px;
+    color:black;
+}
+.partTotal{
+    float:left;
+    width:150px;
+    color:black;
+}
+
+
+
+.imgSelected{
+    border:2px solid red;
+}
+.imgUnselected{
+    border:0px;
+}
+.alertItem{
+    height:26px;
+    padding-top:2px;
+    width:300px;
+    border-bottom:thin solid black;
+}
+
+
+/*jquery ContextMenu Plugin*/
+.context-menu {
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;
+
+background-color: #f2f2f2;
+border: 1px solid #999;
+
+list-style: none;
+margin: 0; padding: 0;
+}
+.context-menu a {
+display: block;
+padding: 3px;
+text-decoration: none;
+color: #333;
+}
+.context-menu a:hover {
+background-color: #666;
+color: white;
+}
+
+
+/*
+these styles are for ajax loaded rows of data, like newsprint rolls, po items, insert publications, etc
+*/
+.subrow {
+    width:90%;
+    margin-bottom:4px;
+    padding-bottom:3px;
+    border-bottom:thin solid #666;
+    font-size:12px;
+    text-align:left;
+}
+
+
+/* these classes are for the user messaging system */
+.notification
+{
+    font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    background-color: rgb(247, 247, 247);
+    color: red;
+}
+.success
+{
+    font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    background-color: #acfa58;
+    color: black;
+}
+.fail
+{
+    font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    background-color: #fe2e2e;
+    color: white;
+}
+
+
+/**********************************************************************************
+*
+*  SLIDE PANEL STYLES
+*
+*************************************************************************************/
+a.trigger{
+    position: absolute;
+    background:#88bbd4 url(../artwork/images/plus.png) 6% 55% no-repeat;
+    text-decoration: none;
+    font-size: 16px;
+    letter-spacing:-1px;
+    font-family: verdana, helvetica, arial, sans-serif;
+    color:#fff;
+    padding:4px 12px 6px 24px;
+    font-weight: bold;
+    
+    z-index:2;
+}
+a.trigger.left {
+    left: 0;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-top-right-radius: 5px;
+    border-top-right-radius: 5px;
+    -moz-border-radius-bottomright: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+a.trigger.right {
+    right: 0;
+    -moz-border-radius-bottomleft: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -webkit-border-top-left-radius: 5px;
+    border-top-left-radius: 5px;
+    
+}
+a.trigger:hover {
+    background-color:#59B;
+}
+a.active.trigger {
+    background:#666 url(../artwork/images/minus.png) 6% 55% no-repeat;
+}
+.panel {
+    color:#CCC;
+    position: absolute;
+    display: none;
+    background: #000000;
+    width: 300px;
+    height: auto;
+    z-index:1;
+}
+.panel.left {
+    left: 0;
+    padding: 20px 30px 20px 100px;
+    border-top-right-radius: 15px;
+    -moz-border-radius-topright: 15px;
+    -webkit-border-top-right-radius: 15px;
+    -moz-border-radius-bottomright: 15px;
+    -webkit-border-bottom-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.panel.right {
+    right: 0;
+    padding: 20px 100px 20px 30px;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+    -moz-border-radius-bottomleft: 15px;
+    -moz-border-radius-topleft: 15px;
+    -webkit-border-bottom-left-radius: 15px;
+    -webkit-border-top-left-radius: 15px;
+}
+.panel p {
+    font-size:11px;
+}
+
+
+/*
+STYLES FOR DROP MENU
+*/
+.chromestyle{
+width: auto;
+font-weight: bold;
+}
+
+.chromestyle:after{ /*Add margin between menu and rest of content in Firefox*/
+content: "."; 
+display: block; 
+height: 0; 
+clear: both; 
+visibility: hidden;
+}
+
+.chromestyle ul{
+border: 1px solid #BBB;
+width: auto;
+background: url(images/chromebg2.gif) center center repeat-x !important; /*THEME CHANGE HERE*/
+padding: 4px 0;
+margin: 0;
+font-size:12px;
+text-align: center; /*set value to "left", "center", or "right"*/
+}
+
+.chromestyle ul li{
+display: inline;
+}
+
+.chromestyle ul li a{
+color: #AC1D23;
+padding: 2px 3px;
+margin: 0;
+text-decoration: none;
+border-right: 1px solid #DADADA;
+}
+
+.chromestyle ul li a:hover{
+background: url(images/chromebg2-over.gif) center center repeat-x; /*THEME CHANGE HERE*/
+}
+ 
+/* ######### Style for Drop Down Menu ######### */
+
+.dropmenudiv{
+    position:absolute;
+    top: 0;
+    border: 1px solid #BBB; /*THEME CHANGE HERE*/
+    border-bottom-width: 0;
+    font:normal 10px Verdana;
+    line-height:12px;
+    z-index:50000;
+    background-color: white;
+    width: 250px;
+    visibility: hidden;
+    filter: progid:DXImageTransform.Microsoft.Shadow(color=#CACACA,direction=135,strength=4); /*Add Shadow in IE. Remove if desired*/
+}
+
+
+.dropmenudiv a{
+    width: 250px;
+    display: block;
+    text-indent: 2px;
+    border-bottom: 1px solid #BBB; /*THEME CHANGE HERE*/
+    padding: 6px 0;
+    text-decoration: none;
+    font-weight: bold;
+    color: #AC1D23;
+}
+
+.dropmenudiv a:hover{ /*THEME CHANGE HERE*/
+background-color: #FFDB4F;
+}
+
+
+/*
+STYLES FOR REPORTS
+*/
+ 
+
+/* maintenance stuff */
+.equipmentitem {
+    width:80px;
+    background-color:white;
+}
+.equipmentitem:hover {
+    background-color:#fece2f;
+}
+
+/* jQuery UI style overrides for buttons, tabs and other stuff */
+.ui-button {
+    padding: 2px 4px !important;
+    font-size:11px !important;
+    -webkit-border-radius: 4px !important;
+    -moz-border-radius: 4px !important;
+    border-radius: 4px !important;
+}
+.ui-tabs {
+    font-size: 12px;
+}
+
+@media print
+{
+    #topholder {
+        display: none;
+    }
+    #toptabmenu {
+        display: none;
+    }
+    #mainmenu {
+        display: none;
+    }
+    #topeverythingelse {
+        display: none;
+    }
+    #toplogographic {
+        display: none;
+    }
+    #tableoptions {
+        display: none;
+    }
+    .noprint {
+        display: none;
+    }
+}
+
+/* to make sure datepicker appears in dialog boxes */
+#ui-datepicker-div 
+{
+ z-index: 999999999 !important; /* must be > than popup editor (950) */
+}
+
+.binderyRunTimes {
+    margin-bottom:4px;
+    padding-bottom:4px;
+    border-bottom:thin solid black;
+    width:800px;
+}

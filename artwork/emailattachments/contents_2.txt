@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html;
+      charset=ISO-8859-1">
+  </head>
+  <body bgcolor="#ffffff" text="#000000">
+    <br>
+    <br>
+    -------- Original Message --------
+    <table class="moz-email-headers-table" border="0" cellpadding="0"
+      cellspacing="0">
+      <tbody>
+        <tr>
+          <th nowrap="nowrap" align="RIGHT" valign="BASELINE">Subject: </th>
+          <td>super test</td>
+        </tr>
+        <tr>
+          <th nowrap="nowrap" align="RIGHT" valign="BASELINE">Date: </th>
+          <td>Wed, 26 Jan 2011 16:56:51 -0700</td>
+        </tr>
+        <tr>
+          <th nowrap="nowrap" align="RIGHT" valign="BASELINE">From: </th>
+          <td>Joe Hansen <a class="moz-txt-link-rfc2396E" href="mailto:jhansen@idahopress.com">&lt;jhansen@idahopress.com&gt;</a></td>
+        </tr>
+        <tr>
+          <th nowrap="nowrap" align="RIGHT" valign="BASELINE">Reply-To:
+          </th>
+          <td><a class="moz-txt-link-abbreviated" href="mailto:jhansen@idahopress.com">jhansen@idahopress.com</a></td>
+        </tr>
+        <tr>
+          <th nowrap="nowrap" align="RIGHT" valign="BASELINE">To: </th>
+          <td><a class="moz-txt-link-abbreviated" href="mailto:mango@idahopress.com">mango@idahopress.com</a></td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <br>
+    <meta http-equiv="content-type" content="text/html;
+      charset=ISO-8859-1">
+    This is a super test!<br>
+    <div class="moz-signature">-- <br>
+      <meta http-equiv="content-type" content="text/html;
+        charset=ISO-8859-1">
+      <title></title>
+      <small><font color="#000099" face="Trebuchet MS"><b>Joe Hansen</b></font></small><br>
+      <div class="moz-signature">
+        <div class="moz-signature">
+          <div class="moz-signature">
+            <div class="moz-signature"><small><font color="#000000"
+                  face="Trebuchet MS">IT Director<br>
+                </font><font color="#000000" face="Trebuchet MS"><a
+                    moz-do-not-send="true"
+                    href="mailto:jhansen@idahopress.com">jhansen@idahopress.com</a><br>
+                  208-465-8171 (office)</font><font face="Trebuchet MS"><br>
+                </font></small><font color="#000000" face="Trebuchet MS"><small>Idaho
+Press-Tribune
+
+                  - <a moz-do-not-send="true"
+                    href="http://www.idahopress.com/">www.idahopress.com</a><br>
+                  <small><i>&nbsp;&nbsp; Your <font color="#009900"><b>BEST</b> </font>source
+for
+
+                      <b><font color="#006600">LOCAL</font></b> news and
+                      information</i></small></small><br>
+              </font><font face="Trebuchet MS"><br>
+                <br>
+                &nbsp; <br>
+              </font></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
