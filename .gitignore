@@ -4,10 +4,14 @@
 */cache/*
 */cache/!index.html
 */cache/!.htaccess
+/api/*
 /blog/*
-/wiki/*
+/cache/*
+/dbbackups/*
+/gotcha/*
+/newsroom/*
 /phpMyBackupPro/*
 /pioneer/*
+/support/*
 /tests/*
-/api/*
-/dbbackups/*
+/wiki/*
